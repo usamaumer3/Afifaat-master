@@ -1,0 +1,142 @@
+ .u-section-1 {
+  min-height: 700px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 700px;
+  object-position: 0% 100%;
+  background-position: 0% 0%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 997px;
+  margin: -651px auto 76px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 575px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 0 37px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 372px;
+  background-image: none;
+  width: 417px;
+  margin: 36px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 1px;
+  width: 100%;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-style: solid;
+  padding: 14px 0 15px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 1000px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 679px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 542px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 23px;
+    margin-right: 23px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 410px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 880px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 498px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 374px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 1176px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 467px;
+    object-position: 100% 100%;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    order: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 958px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 367px;
+    object-position: 57.09% 100%;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
